@@ -48,11 +48,11 @@
     <img src="https://img.shields.io/static/v1?label=|&message=DOCKER&color=cbb148&style=plastic&logo=docker"/>
 </p>
 
-<p align="center">
+<div style="text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brian926&show_icons=true&locale=en&layout=compact" alt="brian926" />
     <img src="https://github-readme-stats.vercel.app/api?username=brian926&show_icons=true&locale=en" alt="brian926" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=brian926&" alt="brian926" />
-</p>
+</div>
 
 
 ---
