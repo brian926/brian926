@@ -1,3 +1,5 @@
+<img src="quote.png" width="100%">
+
 <h1 align="center">Hi 👋, I'm Brian Antunes</h1>
 
 <p align="center">
@@ -19,7 +21,7 @@
 
 <div style="text-align: center;">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=brian926&rank=-C&theme=onedark)](https://github.com/brian926/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=brian926&rank=-C&theme=onedark)](https://github.com/brian926/github-profile-trophy)
 </div>
 
 <h1 align="center">Technologies</h1>
