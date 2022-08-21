@@ -51,9 +51,9 @@
 </p>
 
 <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brian926&show_icons=true&locale=en&layout=compact" alt="brian926" width="30%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=brian926&show_icons=true&locale=en" alt="brian926" width="30%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=brian926&" alt="brian926" width="30%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brian926&show_icons=true&locale=en&layout=compact" alt="brian926" width="33%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=brian926&show_icons=true&locale=en" alt="brian926" width="33%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=brian926&" alt="brian926" width="33%" />
 </div>
 
 
