@@ -60,7 +60,7 @@
 ---
 
 
-<h1 align="center">Connect</h1>
+<h1 align="center">Connect With Me</h1>
 
 <p align="center">
   <a href="https://www.brianantunes.com" target="_blank">
