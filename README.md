@@ -2,22 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Brian Antunes</h1>
 
-<p align="center">
-  <a href="https://www.brianantunes.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/brian-antunes/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
-  <a href="https://twitter.com/Brian_Antunes" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-  <a href="https://angel.co/u/brian-antunes" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
-</p>
-
-<h3 align="center">A passionate Software and System Engineer from Connecticut</h3>
+<p align="center">I am a Software Engineer based in New Haven, CT. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. I am also a certified IT professional with numerous certifications including Azure System Admin, AWS Fundamentals, Red Hat System Admin, and CCNA. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.</p>
 
 <div style="text-align: center;">
 
