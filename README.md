@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<p align="center">I am a Software and System Engineer based in New Haven, CT. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and Python. I am also a certified IT professional with numerous certifications including Azure System Admin, AWS Fundamentals, Red Hat System Admin, and CCNA. As a engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class  solutions.</p>
+<p align="center">I am a Software and System Engineer based in New Haven, CT. I am proficient in both Frontend development and Backend development. I have extensive knowledge in PowerShell, MS SQL, HTML, CSS, Javascript, Node.Js, MongoDB, and Python. I am also a certified IT professional with numerous certifications including Azure System Admin, AWS Fundamentals, Red Hat System Admin, and CCNA. As a engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class  solutions.</p>
 
 <h1 align="center">Technologies</h1>
 
